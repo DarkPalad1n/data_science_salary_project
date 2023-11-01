@@ -10,10 +10,10 @@
 
 ## Code and Resources used
 
-**Python version**: 3.10
-**Packages**: pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle
-**Ken Jee's Project Walk-Through**: https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
-**Original Project Github**: https://github.com/PlayingNumbers/ds_salary_proj
-**Scraper Github**: https://github.com/arapfaik/scraping-glassdoor-selenium
-**Scraper Article**: https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
+**Python version**: 3.10 <br>
+**Packages**: pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle <br>
+**Ken Jee's Project Walk-Through**: https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t <br>
+**Original Project Github**: https://github.com/PlayingNumbers/ds_salary_proj <br>
+**Scraper Github**: https://github.com/arapfaik/scraping-glassdoor-selenium <br>
+**Scraper Article**: https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905 <br>
 **Flask Productionization**: https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
